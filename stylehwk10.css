@@ -1,7 +1,7 @@
 ﻿body, html {
     height: 100%;
     line-height: 1.8;
-    font-family: "Raleway", sans-serif;
+    font-family: 'Times New Roman', Times, serif;
 }
 div {
     margin: 0 auto;
@@ -16,4 +16,8 @@ h1 {
 
 body {
     background-image: url("https://th.bing.com/th/id/OIP.DwOpz96d3DG84VK-8UTnrAHaHa?w=182&h=182&c=7&r=0&o=5&pid=1.7");
+}
+li {
+    text-decoration: none;
+    color: black;
 }
