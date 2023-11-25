@@ -36,6 +36,7 @@ list-style-type: none;
     z-index: 100;
 
 }
-.navbar, .navbar li {
-    float: left;
+
+li{
+   float: left;
 }
