@@ -16,6 +16,7 @@ h1 {
 
 body {
     background-image: url("https://th.bing.com/th/id/OIP.DwOpz96d3DG84VK-8UTnrAHaHa?w=182&h=182&c=7&r=0&o=5&pid=1.7")
+
 }
 a {
     color: black;
@@ -43,4 +44,8 @@ li a {
     float: left;
     margin-right: 10px;
 display: block;
+}
+img {
+    width: 100%;
+    height: auto;
 }
